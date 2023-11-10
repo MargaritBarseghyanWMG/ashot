@@ -32,5 +32,6 @@ public class Main {
         System.out.println(myInt);
         System.out.println(myChar);
 
+        int tazaBan=7262;
     }
 }
